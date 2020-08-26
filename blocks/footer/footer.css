@@ -1,0 +1,11 @@
+@import url(./__nav/footer__nav.css);
+@import url(./__link/footer__link.css);
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  line-height: 18px;
+  margin-top: 92px;
+  margin-bottom: 24px;
+}
