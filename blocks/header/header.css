@@ -10,6 +10,11 @@
   justify-content: space-between;
 }
 
+@media screen and (max-width: 1024px){
+  .header {
+    width: 924px;
+  }
+}
 
 @media screen and (max-width: 1024px){
   .header {

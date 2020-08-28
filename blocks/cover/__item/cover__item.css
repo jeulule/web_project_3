@@ -1,0 +1,10 @@
+.cover__item {
+    min-height: 740px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    justify-content: center;
+    color: white;
+    background-image: url(../../../images/__background.png);
+}

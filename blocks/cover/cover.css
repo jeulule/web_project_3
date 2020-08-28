@@ -1,17 +1,19 @@
 @import url(./__title/cover__title.css);
 @import url(./__subtitle/cover__subtitle.css);
+@import url(./__item/cover__item.css);
 
-.cover {
+/* .cover {
   background-image: url(../../images/__background.png);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 740px;
+  height: 740px;
   color: white;
   text-decoration: none;
   background-repeat: no-repeat;
   position: relative;
+  border: 1px solid red;
 }
 
 .cover:after {
@@ -27,4 +29,4 @@
 
 .cover:hover:after {
   opacity: 0.8;
-}
+} */
