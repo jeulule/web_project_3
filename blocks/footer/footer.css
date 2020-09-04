@@ -1,5 +1,6 @@
 @import url(./__nav/footer__nav.css);
 @import url(./__link/footer__link.css);
+@import url(./__copyright/footer__copyright.css);
 
 .footer {
   display: flex;
@@ -8,4 +9,13 @@
   line-height: 18px;
   margin-top: 92px;
   margin-bottom: 24px;
+}
+
+@media screen and (max-width: 320px){
+  .footer {
+    flex-direction: column;
+    line-height: 24px;
+    margin-top: 64px;
+    margin-left: 16px;
+  }
 }

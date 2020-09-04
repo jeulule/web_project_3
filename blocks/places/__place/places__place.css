@@ -3,3 +3,13 @@
   display: flex;
   margin-bottom: 80px;
 }
+
+@media screen and (max-width: 320px){
+  .places__place {
+    width: 288px;
+    flex-wrap: wrap;
+    margin-bottom: 48px;
+    margin-right: 0;
+    padding-right: 0;
+  }
+}

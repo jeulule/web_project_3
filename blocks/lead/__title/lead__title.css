@@ -23,8 +23,10 @@
 
 @media screen and (max-width: 320px){
   .lead__title {
-    /* width: 288px; */
-    margin: 50px auto;
+    font-size: 40px;
+    line-height: 44px;
+    width: 288px;
+    margin: 0 auto;
     text-align: center;
   }
 }

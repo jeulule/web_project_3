@@ -5,3 +5,10 @@
   margin: 0;
   margin-bottom: 32px;
 }
+
+@media screen and (max-width: 320px){
+  .cover__title {
+    font-size: 32px;
+    margin: 51px 16px 16px 16px;
+  }
+}

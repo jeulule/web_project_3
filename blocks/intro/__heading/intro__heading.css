@@ -1,0 +1,14 @@
+.intro__heading {
+    font-size: 24px;
+    line-height: 34px;
+    width: 690px;
+    margin-bottom: 32px;
+    font-weight: 300;
+}
+
+@media screen and (max-width: 320px){
+    .intro__heading {
+        line-height: 30px;
+        width: 288px;
+    }
+}

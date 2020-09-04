@@ -4,3 +4,12 @@
   /* margin-top: 48px; */
   margin-right: 48px;
 }
+
+@media screen and (max-width: 320px){
+  .places__image {
+    width: 320px;
+    height: 320px;
+    margin: 0;
+    padding: 0 !important;
+  }
+}
