@@ -3,9 +3,14 @@
   line-height: 163%;
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 768px){
   .places__paragraph {
     font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 320px){
+  .places__paragraph {
     /* margin-left: 16px; */
     margin-left: 16px;
   }

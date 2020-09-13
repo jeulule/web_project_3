@@ -5,6 +5,22 @@
   margin-right: 48px;
 }
 
+@media screen and (max-width: 1024px){
+  .places__image {
+    width: 440px;
+    height: 440px;
+    margin-right: 32px;
+  }
+}
+
+@media screen and (max-width: 768px){
+  .places__image {
+    width: 340px;
+    height: 340px;
+    margin-right: 34px;
+  }
+}
+
 @media screen and (max-width: 320px){
   .places__image {
     width: 320px;

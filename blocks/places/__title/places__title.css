@@ -4,6 +4,12 @@
   margin: 0;
 }
 
+@media screen and (max-width: 768px){
+  .places__title {
+    font-size: 42px;
+  }
+}
+
 @media screen and (max-width: 320px){
   .places__title {
     font-size: 32px;

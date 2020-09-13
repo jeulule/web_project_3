@@ -12,6 +12,7 @@
   .photo-grid {
     grid-template-columns: repeat(3, 300px);
     height: 942px;
+    margin-left: 48px;
   }
 }
 

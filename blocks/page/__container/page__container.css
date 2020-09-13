@@ -3,23 +3,26 @@
   margin: 0 auto;
 }
 
-/* @media screen and (max-width: 1280px){
-  .page__container{
-    width: 1184px;
-  }
-}
 
-@media screen and (max-width: 1024px){
+/* @media screen and (max-width: 1024px){
   .page__container{
-    width: 1024px;
+    width: 928px;
   }
-}
+} */
 
 @media screen and (max-width: 768px){
   .page__container{
     width: 768px;
   }
 }
+
+/* @media screen and (max-width: 1280px){
+  .page__container{
+    width: 1184px;
+  }
+}
+
+
 */
 @media screen and (max-width: 320px){
   .page__container{
