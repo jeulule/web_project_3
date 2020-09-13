@@ -20,6 +20,7 @@
   .photo-grid {
     grid-template-columns: repeat(2, 50%) ;
     height: 1664px;
+    margin-left: 0;
   }
 }
 
