@@ -1,9 +1,10 @@
 .footer__link {
   margin-right: 18px;
+  color: white;
 }
 
 @media screen and (max-width: 320px){
   .footer__link{
-    line-height: 48px;
+    line-height: 24px;
   }
 }

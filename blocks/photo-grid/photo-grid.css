@@ -3,9 +3,16 @@
 .photo-grid {
   display: grid;
   grid-template-columns: repeat(4, 25%) ;
-  gap: 16px;
+  /* gap: 16px; */
   height: 671px;
   margin: 92px auto;
+}
+
+@media screen and (max-width: 1280px){
+  .photo-grid {
+    height: 671px;
+    /* width: 1184px; */
+  }
 }
 
 @media screen and (max-width: 1024px){

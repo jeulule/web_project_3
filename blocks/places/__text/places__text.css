@@ -1,0 +1,7 @@
+.places__text {
+    grid-column: 2;
+    grid-row: 2;
+    font-size: 18px;
+    line-height: 30px;
+    align-self: start;
+}
